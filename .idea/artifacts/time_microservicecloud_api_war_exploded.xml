@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="time-microservicecloud-api:war exploded">
+    <output-path>$PROJECT_DIR$/time-microservicecloud-api/target/time-microservicecloud-api</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="time-microservicecloud-api" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/time-microservicecloud-api/target/time-microservicecloud-api/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="time-microservicecloud-api/web/Web" />
+    </root>
+  </artifact>
+</component>

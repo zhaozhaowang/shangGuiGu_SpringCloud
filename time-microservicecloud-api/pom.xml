@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.time</groupId>
+        <artifactId>time-microservicecloud</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../time-microservicecloud/pom.xml</relativePath>
+    </parent>
+
+    <!--当前module叫什么名字-->
+    <artifactId>time-microservicecloud-api</artifactId>
+    <packaging>jar</packaging>
+    <name>time-microservicecloud-api</name>
+    <description>这个工程继承父工程,主要用来提供api,所以是jar</description>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>
