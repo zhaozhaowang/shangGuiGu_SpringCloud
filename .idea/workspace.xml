@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2413a33c-127a-4640-8642-555f09d1c8d8" name="Default" comment="" />
+    <list default="true" id="2413a33c-127a-4640-8642-555f09d1c8d8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/time-microservicecloud/.gitignore" afterPath="$PROJECT_DIR$/time-microservicecloud/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/项目说明.txt" afterPath="$PROJECT_DIR$/项目说明.txt" />
+    </list>
     <ignored path="$PROJECT_DIR$/time-microservicecloud/target/" />
     <ignored path="$PROJECT_DIR$/time-microservicecloud-api/target/" />
     <ignored path="$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/target/" />
@@ -28,17 +32,17 @@
         <entry file="file://$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dept.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dept.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/src/main/java/com/time/pojo/Dept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="90">
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,29 +50,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
+      <file leaf-file-name="项目说明.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/项目说明.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="15">
+              <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time-microservicecloud/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time-microservicecloud/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1050">
               <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -87,6 +111,9 @@
       <find>lombok.version</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -103,6 +130,8 @@
         <option value="$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" />
         <option value="$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/time-microservicecloud-api/src/main/java/com/time/pojo/Dept.java" />
+        <option value="$PROJECT_DIR$/项目说明.txt" />
+        <option value="$PROJECT_DIR$/time-microservicecloud/.gitignore" />
       </list>
     </option>
   </component>
@@ -144,7 +173,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
+    <option name="x" value="82" />
     <option name="y" value="23" />
     <option name="width" value="1167" />
     <option name="height" value="756" />
@@ -444,6 +473,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -459,10 +489,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -553,6 +582,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -680,15 +710,16 @@
       <updated>1568172008951</updated>
       <workItem from="1568172012491" duration="8152000" />
       <workItem from="1568189777696" duration="6107000" />
-      <workItem from="1568600032398" duration="3002000" />
+      <workItem from="1568600032398" duration="3326000" />
+      <workItem from="1568686212578" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17261000" />
+    <option name="totallyTimeSpent" value="17823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="23" width="1167" height="756" extended-state="0" />
+    <frame x="82" y="23" width="1167" height="756" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -698,13 +729,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36177778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -712,8 +743,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -734,26 +765,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/src/main/java/com/time/pojo/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar!/lombok/Data.class">
@@ -826,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,136 +912,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="193" column="16" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
-          <folding>
-            <marker date="1561967112750" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1561967112750" expanded="false" signature="167:912" ph="..." />
-            <marker date="1561967112750" expanded="true" signature="914:974" ph="@{...}" />
-            <marker date="1561967112750" expanded="true" signature="1991:2122" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="2183:2194" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="2225:2231" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="2288:2299" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="2330:2336" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="2392:2491" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="2552:2788" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="2817:2828" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="2845:2851" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="2889:2900" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="2917:2923" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="2966:2977" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3008:3014" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="3081:3092" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3137:3143" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="3193:3204" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3221:3227" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="3286:3297" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3314:3320" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="3360:3371" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3399:3405" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="3465:3476" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="3515:3521" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="3568:4448" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="4494:4762" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="4790:4801" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="4817:4823" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="4859:4870" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="4885:4891" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="4926:5375" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="5420:5681" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="5714:5725" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="5746:5752" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="5798:5809" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="5834:5840" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="5880:6103" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="6136:6147" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6168:6174" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="6220:6231" ph=" { " />
-            <marker date="1561967112750" expanded="true" signature="6256:6262" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="6302:6523" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="6556:6567" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6588:6594" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="6640:6651" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6676:6682" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="6717:6728" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6751:6757" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="6808:6819" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6848:6854" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="6887:6898" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="6919:6925" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="6971:6982" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7007:7013" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7050:7061" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7080:7086" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7134:7145" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7166:7172" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7211:7222" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7249:7255" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7313:7324" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7361:7367" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7406:7417" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7444:7450" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7508:7519" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7556:7562" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7597:7608" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7625:7631" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7675:7686" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7703:7709" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7746:7757" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7782:7788" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7842:7853" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7886:7892" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="7929:7940" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="7965:7971" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8025:8036" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8069:8075" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8115:8126" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8154:8160" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8221:8232" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8271:8277" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8311:8322" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8344:8350" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8398:8409" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8436:8442" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8485:8496" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8526:8532" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8597:8608" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8651:8657" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8698:8709" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8733:8739" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8783:8794" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8809:8815" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="8866:8877" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="8890:8896" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="8977:10260" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="9100:9177" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="9301:10254" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="10289:10913" ph="{...}" />
-            <marker date="1561967112750" expanded="true" signature="10426:10437" ph="{}" />
-            <marker date="1561967112750" expanded="false" signature="10485:10500" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="10532:10542" ph=" }" />
-            <marker date="1561967112750" expanded="true" signature="10615:10686" ph="{...}" />
-            <marker date="1561967112750" expanded="false" signature="10738:10753" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="10776:10786" ph=" }" />
-            <marker date="1561967112750" expanded="false" signature="10853:10868" ph=" { " />
-            <marker date="1561967112750" expanded="false" signature="10897:10907" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -977,34 +943,50 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time-microservicecloud-api/src/main/java/com/time/pojo/Dept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/项目说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time-microservicecloud/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

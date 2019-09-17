@@ -1,1 +1,2 @@
 这是用来学习尚硅谷springcloud的.
+项目里面用到了小辣椒,避免冗余的getter 和 setter
