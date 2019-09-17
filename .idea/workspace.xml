@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2413a33c-127a-4640-8642-555f09d1c8d8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/time-microservicecloud/.gitignore" afterPath="$PROJECT_DIR$/time-microservicecloud/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/项目说明.txt" afterPath="$PROJECT_DIR$/项目说明.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/time-microservicecloud/target/" />
     <ignored path="$PROJECT_DIR$/time-microservicecloud-api/target/" />
@@ -711,12 +709,20 @@
       <workItem from="1568172012491" duration="8152000" />
       <workItem from="1568189777696" duration="6107000" />
       <workItem from="1568600032398" duration="3326000" />
-      <workItem from="1568686212578" duration="238000" />
+      <workItem from="1568686212578" duration="274000" />
     </task>
+    <task id="LOCAL-00001" summary="修改项目说明信息">
+      <created>1568686483932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568686483932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17823000" />
+    <option name="totallyTimeSpent" value="17859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="23" width="1167" height="756" extended-state="0" />
@@ -759,6 +765,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改项目说明信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目说明信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
